@@ -6,7 +6,7 @@ public class GradeCalculator {
 
         
         System.out.println("Enter marks obtained in each subject (out of 100):");
-        int subjects = 5; // Assuming there are 5 subjects
+        int subjects = 5; 
         int[] marks = new int[subjects];
 
         for (int i = 0; i < subjects; i++) {
