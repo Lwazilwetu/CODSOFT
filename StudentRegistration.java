@@ -74,7 +74,7 @@ class CourseRegistrationSystem {
 
         System.out.print("Enter student ID: ");
         int studentId = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline character
+        scanner.nextLine();
 
         System.out.print("Enter course code: ");
         String courseCode = scanner.next();
